@@ -1,0 +1,27 @@
+{
+  "emps": [
+    {
+      "id": 7001,
+      "name": "Roger",
+      "age": "26",
+      "devices": ["macbook", "iphone"]
+    },
+    {
+      "id": 7002,
+      "name": "Kelly",
+      "age": "32",
+      "devices": []
+    },
+    {
+      "id": 7003,
+      "name": "Hebbe",
+      "age": "19",
+      "devices": ["cisco phone", "keyboard", "monitor"]
+    }
+  ],
+  "studentA" : {
+    "name": "Roger Lo",
+    "enrolDate": "2023/05/10",
+    "grade": 5
+  } 
+}

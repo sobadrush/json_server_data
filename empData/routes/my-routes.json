@@ -1,0 +1,6 @@
+{
+    "/api/*": "/$1",
+    "/:resource/:id/show": "/:resource?id=:id",
+    "/emps/:my_property": "/emps?name=:my_property",
+    "/HelloWorld?id=:id": "/emps/:id"
+}
